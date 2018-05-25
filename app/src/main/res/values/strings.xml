@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">限时静音</string>
+    <string-array name="timer_selection_caption">
+        <item>自定义</item>
+        <item>5分钟</item>
+        <item>10分钟</item>
+        <item>15分钟</item>
+        <item>20分钟</item>
+        <item>30分钟</item>
+        <item>40分钟</item>
+        <item>50分钟</item>
+        <item>1小时</item>
+        <item>1.5小时</item>
+        <item>2小时</item>
+        <item>3小时</item>
+    </string-array>
+    <string-array name="timer_selection_value">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>180</item>
+    </string-array>
+</resources>
